@@ -1,0 +1,1 @@
+Este programa en C++ muestra un menú con las estaciones del año y pide al usuario que ingrese una opción correspondiente a una estación (Primavera, Verano, Otoño, Invierno). Dependiendo de la opción ingresada, el programa muestra los meses que conforman la estación seleccionada.
